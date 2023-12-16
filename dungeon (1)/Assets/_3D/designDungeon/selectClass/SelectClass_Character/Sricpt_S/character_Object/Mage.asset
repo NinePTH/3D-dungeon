@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a70841eb9e16644e89f98ad27e0c7f2, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  _character: {fileID: 4971351995577548302, guid: 3eea09ac6e5d0e34697a349c8a8e82d2,
+    type: 3}
+  characterId: 2
+  Name: Ganfaul
+  _class: mage
+  Hp: 0
+  mp: 100
+  strength: 45
+  defense: 50
+  speed: 0
+  scaleOb: {x: 1.448867, y: 1.448867, z: 1.448867}
+  skills: []
